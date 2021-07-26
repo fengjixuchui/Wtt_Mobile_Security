@@ -13,7 +13,7 @@ b站相关技术视频：https://space.bilibili.com/430241559
 - [01.安卓逆向面试 技术篇 相关资料](audition/)
 
 ## ollvm系列
-- [03.## 跟着铁头干混淆3 ubuntu下用docker编译ollvm(保证成功)](Ollvm/03/README.md)
+- [03.跟着铁头干混淆3 ubuntu下用docker编译ollvm(保证成功)](Ollvm/03/README.md)
 
 ## frida系列
 - [01.frida 延时hook的3种方法](frida/01/README.md)
